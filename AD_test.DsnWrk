@@ -1,0 +1,10 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=MultiBoard_Project_test\MultiBoard_Project_test.PrjMbd
+[Project2]
+ProjectPath=board_01\board_01.PrjPcb
+[Project3]
+ProjectPath=board_02\board_02.PrjPcb
+[Project4]
+ProjectPath=board_03\board_03.PrjPcb
